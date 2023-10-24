@@ -20,3 +20,4 @@ I use PHP 8.2 and XAMPP here.
 - [Tutorial 3 - Write your first PHP program](https://www.youtube.com/watch?v=W2D190HCuu4)
 - [Tutorial 4 - Variables Part 1](https://www.youtube.com/watch?v=uOxKLq7-lxo)
 - [Tutorial 5 - How to mix PHP and HTML](https://www.youtube.com/watch?v=9Uu5kzJdpiQ)
+- [Tutorial 6 - Conditional statements - if/elseif/else](https://www.youtube.com/watch?v=9HMOnISd3FY)
