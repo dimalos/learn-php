@@ -1,6 +1,9 @@
 <?php
 /**
- **Description:** You are on a quest for treasure.
+ **Treasure Hunter: Finding Loot**
+
+You are on a quest for treasure.
+
 You have three booleans: $hasMap, $hasCompass, and $foundXMark.
 
 - If you have both $hasMap and $foundXMark, you can locate the buried treasure.

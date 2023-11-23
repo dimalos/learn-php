@@ -1,8 +1,11 @@
 <?php
 /**
- **Description:**
+ **Potion Brewer: Mixing Ingredients**
 
-You are an alchemist in a fantasy world. You have four variables: $herb, $flower, $mushroom, and $crystal, each of which can be true (available) or false (not available).
+You are an alchemist in a fantasy world.
+
+You have four variables: $herb, $flower, $mushroom, and $crystal,
+each of which can be true (available) or false (not available).
 
 - You need both $herb and $flower to brew a healing potion.
 - You need either $mushroom or $crystal to brew a mana potion.
@@ -20,7 +23,7 @@ $mushroom = true;
 $crystal = true;
 
 if ($herb && $flower) {
-    echo 'Healing potion brewed!';
+    echo 'Healing potion brewed!🍔';
 } elseif ($mushroom || $crystal) {
     echo 'Mana potion brewed!';
 } else {

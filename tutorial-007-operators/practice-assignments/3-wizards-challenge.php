@@ -2,7 +2,8 @@
 /**
  **Wizard's Challenge: Spell Casting**
 
- **Description:** You are a wizard apprentice.
+You are a wizard apprentice.
+
 You have a variable $mana (a number) and two booleans, $hasSpellbook and $fullMoon.
 - You need at least 50 $mana and the $hasSpellbook to cast a basic spell.
 - If it's a $fullMoon, even with lower mana (let's say 30), you can still cast the basic spell with the spellbook.
