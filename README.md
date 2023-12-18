@@ -23,3 +23,4 @@ I use PHP 8.2 and XAMPP here.
 - [Tutorial 6 - Conditional statements - if/elseif/else](https://www.youtube.com/watch?v=9HMOnISd3FY)
 - [Tutorial 7 - Operators - Part 1](https://youtu.be/6W_99tS53nM)
 - [Tutorial 8 - Operators - Part 2](https://youtu.be/WI0nNAbIUE0)
+- [Tutorial 9 - Strings](https://youtu.be/8GDhJjRrN3U)
